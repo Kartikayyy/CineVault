@@ -12,6 +12,9 @@
 </ul>
 <h2>Screenshots </h1>
 <div width="20px">
-![WhatsApp Image 2024-08-06 at 12 19 52 PM](https://github.com/user-attachments/assets/86b96427-4a27-4735-bf7b-55d561653055)
 
 
+![WhatsApp Image 2024-08-06 at 12 18 38 PM](https://github.com/user-attachments/assets/625070bb-f86a-46b7-b29f-00ccd8b6fb53)   <br>
+
+
+![WhatsApp Image 2024-08-06 at 12 19 52 PM](https://github.com/user-attachments/assets/a43cbf97-dcf2-4897-a824-86435529d1ea)
